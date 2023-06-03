@@ -1,3 +1,5 @@
+//Angela CLaire B. Montes
+
 #include <stdio.h>
 #include <ctype.h>
 #include <stdbool.h>
